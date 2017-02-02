@@ -3,17 +3,17 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+An engineering student in George Washington Universirty
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2012 - 2016`
+__Hunan University__
+Bechelor degree of engineering
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2016 - 2018`
+__George Washington University__
+Master degree of science 
 
 ## Awards
 
